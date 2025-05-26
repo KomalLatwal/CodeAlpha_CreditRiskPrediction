@@ -88,8 +88,8 @@ pip install -r requirements.txt
   ![ROC Curve](outputs/roc_curve.png)
 
 * Precision-Recall Curve
-  ![PR Curve](outputs/precision_recall.png)
 
+  ![Precision Curve](outputs/precision-recall_curve.png)
 ---
 
 ## 🎯 Final Notes
